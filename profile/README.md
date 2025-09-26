@@ -1,19 +1,13 @@
 <p align="center">
-  <img src="../assets/logo-valida-ai.png" width="120" alt="Válida Aí logo">
-</p>
-
-<h1 align="center">Válida Aí</h1>
-
-<p align="center">
-  <b>Plataforma Segura e Eficiente para Captação e Validação de Documentos Universitários</b>  
-  <br>
-  Automação • Inteligência Artificial • Segurança • Rastreabilidade
+  <img src="../assets/banner-readme.png" alt="Banner Válida Aí" width="100%">
 </p>
 
 ---
 
 <p align="center">
-  <img src="../assets/banner-readme.png" alt="Banner Válida Aí" width="100%">
+  <b>Plataforma Segura e Eficiente para Captação e Validação de Documentos Universitários</b>  
+  <br>
+  Automação • Inteligência Artificial • Segurança • Rastreabilidade
 </p>
 
 ---
