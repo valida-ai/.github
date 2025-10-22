@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="../assets/banner-readme.png" alt="Banner Válida Aí" width="100%">
-</p>
 
 ---
 
