@@ -11,7 +11,7 @@
 
 ## O que é?
 
-O **Válida Aí** é uma plataforma web que:
+O **Valida Aí** é uma plataforma web que:
 - Centraliza a **captação** de certificados e documentos acadêmicos
 - Monta uma triagem de documentos
 - Encaminha casos complexos para **revisão humana**
